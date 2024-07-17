@@ -1,0 +1,6 @@
+THINGS I WANNA ADD
+
+a sort of 'listing the mails' thingy
+being able to log into an account and only see mails related to that person
+scrolling down when typing too many lines
+scrolling right or wrapping lines when typing a too long line
